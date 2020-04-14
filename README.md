@@ -23,3 +23,5 @@ Given the above guidelines:
 6. Using this route, create a page to list the Students of a teacher
 7. Use ajax calls wherever possible.
 8. Write tests for the application.
+
+
